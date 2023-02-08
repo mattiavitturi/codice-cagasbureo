@@ -67,6 +67,15 @@ Il conducente di un autoveicolo, incaricato dai membri della Compagnia, ha dirit
 
 Il conducente ha la responsabilità di tutti i membri della Compagnia che sono suoi passeggeri.
 
+#### Art. 11 - Trasporti onerosi
+Per spostamenti onerosi, tramite autoveicolo, il conducente è tenuto a una indennità pari al costo del carburante e tutti i costi annessi al trasporto stesso, a titolo esplicativo: pedaggi.
+
+L'indennità viene divisa in parti tra i passeggeri.
+
+L'indennità viene accordata singolarmente per ogni spostamento tra il conducente e i passeggeri.
+Il conducente ha la facoltà di rifiutate l'indennità a seconda del suo giudizio.
+Si considera oneroso ogni spostamento in cui la frequenza e/o distanza e/o durata implichi uno sgravio economico al conducente.
+
 ---
 Work in progress
 ---
